@@ -4,7 +4,7 @@ body{
    
 }
 .content{
-    background-color: rgb(247, 245, 243);
+    background-color: rgb(230, 220, 210);
     height: fit-content;
     width: 650px;
     padding-left: 60px;
@@ -15,7 +15,7 @@ body{
 .search-form-input{
     height: 45px;
     width: 450px;
-    border: none;
+    border: ipx solid rgb(126, 70, 70);
     border-radius: 10px;
     padding: 10px;
     position: relative;
@@ -29,6 +29,7 @@ body{
     border-radius: 10px;
     padding: 25px;
     position: absolute;
+    background-color: rgb(84, 84, 184);
     
     
 }
