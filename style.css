@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+.content{
+    background-color: rgb(247, 245, 243);
+    height: fit-content;
+    width: 650px;
+    padding-left: 60px;
+    margin-left: 40px;
+    border-radius: 10px;
+    
+}
+.search-form-input{
+    height: 45px;
+    width: 450px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    right: 30px;
+   
+}
+.search-form-button{
+     height: 65px;
+     width: 150px;
+     border: none;
+    border-radius: 10px;
+    padding: 25px;
+    position: absolute;
+    
+    
+}
+h1{
+    font-size: 50px;
+    font-variant: small-caps;
+}
+#heading{
+    font-size: 50px;
+    font-variant: small-caps;
+   
+    width: fit-content;
+    background-color: rgb(245, 230, 210);
+}
+.unit{
+    position: relative;
+    left: 520px;
+    bottom: 210px;
+    font-size: 50px;
+}
+#icon{
+    position: relative;
+    left: 430px;
+    bottom: 150px;
+    font-size: 50px;
+}
