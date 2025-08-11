@@ -56,3 +56,36 @@ h1{
     bottom: 150px;
     font-size: 50px;
 }
+
+.footer a{
+    text-decoration: none;
+    color: rgb(62, 62, 124);
+}
+#wind-speed{
+    color:rgb(45, 170, 93);
+}
+#humidity{
+    color: rgb(152, 204, 31);
+}
+#description{
+    color:rgb(218, 151, 51);
+}
+/* styling the weekdays forecast*/
+
+.tuesday{
+    text-align: center;
+    color: rgb(66, 64, 64);
+    
+}
+.forecast-icon{
+    text-align: center;
+}
+.forecast-temperature{
+    text-align: center;
+}
+.weather-prediction{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom: 90px;
+}
